@@ -1,0 +1,17 @@
+body {
+    padding: 30px;
+}
+
+/*img {
+    padding-left: 10px;
+}*/
+
+.text {
+    font-family: "Arial";
+}
+
+.code
+{
+    font-family: "Times New Roman";
+    color: #4C4868;
+}
